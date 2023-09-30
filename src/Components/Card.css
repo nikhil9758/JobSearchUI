@@ -1,0 +1,45 @@
+span{
+    padding: 4px;
+}
+.avatar__icon{
+    height: 50px;
+    object-fit: contain;
+    margin-top: 66px;
+}
+
+.candidate__container{
+    display: flex;
+    height: 193px;
+}
+
+.candidate__details{
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+    padding: 10px;
+}
+
+
+.candidate__name{
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 7px;
+}
+
+.candidate__location{
+    font-weight: 500;
+}
+
+.candidate__hashtag{
+    padding-right: 20px;
+    color: blue;
+}
+
+.candidate__tag{
+    background-color: azure;
+    border-radius: 11px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: teal;
+    margin-right: 12px;
+}

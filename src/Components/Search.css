@@ -1,0 +1,16 @@
+.search__input{
+    padding: 5px;
+    width: 86%;
+    padding-left: 29px;
+}
+
+.seach-icon{
+    width: 22px;
+    position: absolute;
+    left: 6px;
+    top: 4px;
+}
+
+.search{
+    position: relative;
+}

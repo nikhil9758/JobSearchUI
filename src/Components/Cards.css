@@ -1,0 +1,21 @@
+.cards{
+    border-radius: 13px;
+    background-color: white;
+    padding: 2rem;
+    width: 90%;
+    margin-top: 75px;
+}
+.cards__main{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+
+.cards__text{
+    color: blue;
+}
+
+.cards__total{
+    color: blue;
+    padding-left: 20px;
+}
